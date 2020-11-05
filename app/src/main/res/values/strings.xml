@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Isyed Todo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_send_data">Send Data</string>
+    <string name="et_input_your_name">Input your Name</string>
 </resources>
